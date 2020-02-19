@@ -1,0 +1,6 @@
+C:\Users\Curso\source\repos\PruebasWatcher\FileWatcherPrueba\bin\Debug\FileWatcherPrueba.exe.config
+C:\Users\Curso\source\repos\PruebasWatcher\FileWatcherPrueba\bin\Debug\FileWatcherPrueba.exe
+C:\Users\Curso\source\repos\PruebasWatcher\FileWatcherPrueba\bin\Debug\FileWatcherPrueba.pdb
+C:\Users\Curso\source\repos\PruebasWatcher\FileWatcherPrueba\obj\Debug\FileWatcherPrueba.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\PruebasWatcher\FileWatcherPrueba\obj\Debug\FileWatcherPrueba.exe
+C:\Users\Curso\source\repos\PruebasWatcher\FileWatcherPrueba\obj\Debug\FileWatcherPrueba.pdb
